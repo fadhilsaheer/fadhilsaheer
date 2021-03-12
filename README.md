@@ -2,7 +2,7 @@
 
 My name is **Fadhil** a idiot who loves coding 👨‍💻 from Kerala, India , I 💗 to learn new stuffs on my free times and build useless projects 😊
 
-My passion is to become a successful programmer 🚀 at the age 15 i started this jazz and
+My passion is to become a successful programmer 🚀 at the age 13 i started this jazz and
 still going with my achievements 🏆 
 
 <br>
