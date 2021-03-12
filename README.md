@@ -2,6 +2,12 @@
 
 My name is **Fadhil** a idiot who loves coding 👨‍💻 from Kerala, India , I 💗 to learn new stuffs on my free times and build useless projects 😊
 
+My passion is to become a successful programmer 🚀 at the age 15 i started this jazz and
+still going with my achievements 🏆 
+
+<br>
+<br>
+
 <p align="center">
     <a href="https://github.com/fadhilsaheer?tab=followers">
         <img src="https://img.shields.io/github/followers/fadhilsaheer?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
