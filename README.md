@@ -29,4 +29,4 @@ My name is **Fadhil** a idiot who loves coding 👨‍💻 from Kerala, India , 
 <br>
 <br>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=fadhilsaheer&show_icons=true&theme=onedark" /></p>
+<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=fadhilsaheer&show_icons=true&theme=onedark" /></p>
