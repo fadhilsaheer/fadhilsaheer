@@ -11,5 +11,22 @@ My name is **Fadhil** a idiot who loves coding 👨‍💻 from Kerala, India , 
     </a>
 </p>
 
+<br>
+<br>
+<p align="center">
+    <img src="https://s2.svgbox.net/files.svg?ic=reactjs&color=000" width="32"height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=flutter&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=python&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=json&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=typescript-official&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=pgsql&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=js&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=dartlang&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=firebase&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=mongo&color=000" width="32" height="32">
+</p>
+
+<br>
+<br>
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=fadhilsaheer&show_icons=true&theme=onedark" /></p>
