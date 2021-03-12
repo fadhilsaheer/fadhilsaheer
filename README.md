@@ -2,6 +2,14 @@
 
 My name is **Fadhil** a idiot who loves coding 👨‍💻 from Kerala, India , I 💗 to learn new stuffs on my free times and build useless projects 😊
 
+<p align="center">
+    <a href="https://github.com/fadhilsaheer?tab=followers">
+        <img src="https://img.shields.io/github/followers/fadhilsaheer?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    </a>
+    <a href="https://github.com/fadhilsaheer">
+        <img src="https://img.shields.io/github/stars/fadhilsaheer?label=Stars&logo=Github&style=for-the-badge" alt="Github badge" />
+    </a>
+</p>
 
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=fadhilsaheer&show_icons=true&theme=onedark" /></p>
