@@ -20,16 +20,26 @@ still going with my achievements 🏆
 <br>
 <br>
 <p align="center">
+    <img src="https://s2.svgbox.net/files.svg?ic=yarn&color=000000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=gatsby&color=000000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=go-lightblue&color=000000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=css&color=000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=reactjs&color=000" width="32"height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=flutter&color=000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=python&color=000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=json&color=000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=typescript-official&color=000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=pgsql&color=000" width="32" height="32">
-    <img src="https://s2.svgbox.net/files.svg?ic=js&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=js-official&color=000000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=dartlang&color=000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=firebase&color=000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=mongo&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=html&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=graphql&color=000000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=procfile&color=000000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=npm&color=000000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=vscode&color=000000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=vim&color=000000" width="32" height="32">
 </p>
 
 <br>
