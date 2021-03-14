@@ -1,9 +1,22 @@
 # Hello World !! 😉
 
-My name is **Fadhil** a idiot who loves coding 👨‍💻 from Kerala, India , I 💗 to learn new stuffs on my free times and build useless projects 😊
+My name is **Fadhil** 😎 a student who loves to sit in front of a computer and loves to learn and do new stuffs 😋 
 
-My passion is to become a successful programmer 🚀 at the age 13 i started this jazz and
-still going with my achievements 🏆 
+
+
+### Well who are you ?? 🤷‍♀️
+
+I am glad you ask 😆  I am me who loves to be me 😉 I hope you got the point 😁 
+
+
+
+* My start was from a legendary language `HTML`  😎
+* Then you guessed it css 😉
+* And python & javascript
+* going further go & flutter
+* and many more 😴
+
+
 
 <br>
 <br>
