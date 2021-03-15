@@ -2,21 +2,9 @@
 
 My name is **Fadhil** 😎 a student who loves to sit in front of a computer and loves to learn and do new stuffs 😋 
 
+I love to create projects with my ideas and hard work 💪 and delete it when the project completes 😉
 
-
-### Well who are you ?? 🤷‍♀️
-
-I am glad you ask 😆  I am me who loves to be me 😉 I hope you got the point 😁 
-
-
-
-* My start was from a legendary language `HTML`  😎
-* Then you guessed it css 😉
-* And python & javascript
-* going further go & flutter
-* and many more 😴
-
-
+I know it is time waste but for programmers ... 😁
 
 <br>
 <br>
