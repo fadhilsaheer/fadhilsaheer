@@ -1,10 +1,6 @@
-# Hello World !! 😉
+# Hello World 👋
 
-My name is **Fadhil** 😎 a student who loves to sit in front of a computer and loves to learn and do new stuffs 😋 
-
-I love to create projects with my ideas and hard work 💪 and delete it when the project completes 😉
-
-I know it is time waste but for programmers ... 😁
+My name is **FADHIL** a professional idiot who loves to bring his useless ideas to life 😄 
 
 <br>
 <br>
@@ -22,7 +18,7 @@ I know it is time waste but for programmers ... 😁
 <br>
 <p align="center">
     <img src="https://s2.svgbox.net/files.svg?ic=yarn&color=000000" width="32" height="32">
-    <img src="https://s2.svgbox.net/files.svg?ic=gatsby&color=000000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=rust" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=go-lightblue&color=000000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=css&color=000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=reactjs&color=000" width="32"height="32">
