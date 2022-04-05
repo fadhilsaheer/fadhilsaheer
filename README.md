@@ -2,7 +2,7 @@
 
 My name is **FADHIL** a professional idiot who loves to bring his useless ideas to life 😄
 
-[Check my useless projects](https://github.com/octoi)
+Check my projects [@OCTOI](https://github.com/octoi)
 
 <br>
 <br>
