@@ -43,9 +43,3 @@ Check my projects [@OCTOI](https://github.com/octoi)
 
 <br>
 <br>
-
-
-<p align="center">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=fadhilsaheer&theme=nightowl&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463)](https://git.io/streak-stats">
-    <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=fadhilsaheer&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true" />
-</p>
