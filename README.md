@@ -1,8 +1,14 @@
+<img src="https://pbs.twimg.com/profile_banners/1357659907135135744/1661779284/1500x500" />
+
 # Hello World 👋
 
-My name is **FADHIL** a professional idiot who loves to bring his useless ideas to life 😄
+My name is **FADHIL**, 16 y/o, fullstack dev, who loves to bring useless ideas to life 😄
 
-Check my projects [@OCTOI](https://github.com/octoi)
+- 🌏 I'm based on Kerala, India
+- 🖥️ Visit my portfolio at [fadhilsaheer.tech](https://fadhilsaheer.tech)
+- 📦 Check my projects at [@OCTOI](https://github.com/octoi)
+- ✉️ Contact me at fadhilsaheer@gmail.com
+- 🚀 I'm currently working [Heartbeat](https://octoi.github.io/heartbeat)
 
 <br>
 <br>
@@ -43,3 +49,11 @@ Check my projects [@OCTOI](https://github.com/octoi)
 
 <br>
 <br>
+
+### Socials
+- 📸 [Instagram](https://instagram.com/fadhilsaheer)
+- 🐦 [Twitter](https://twitter.com/fadhilsaheer)
+- 👨‍💻 [Dev](https://dev.to/fadhilsaheer)
+
+### Support
+<a href="https://www.buymeacoffee.com/fadhilsaheer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
