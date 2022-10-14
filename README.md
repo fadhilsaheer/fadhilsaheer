@@ -8,7 +8,7 @@ My name is **FADHIL**, 16 y/o, fullstack dev, who loves to bring useless ideas t
 - 🖥️ Visit my portfolio at [fadhilsaheer.tech](https://fadhilsaheer.tech)
 - 📦 Check my projects at [@OCTOI](https://github.com/octoi)
 - ✉️ Contact me at fadhilsaheer@gmail.com
-- 🚀 I'm currently working [Heartbeat](https://octoi.github.io/heartbeat)
+- 🚀 I'm currently working on [Heartbeat](https://octoi.github.io/heartbeat)
 
 <br>
 <br>
