@@ -8,6 +8,7 @@ My name is **FADHIL**, 16 y/o, fullstack dev, who loves to bring useless ideas t
 - 🖥️ Visit my portfolio at [fadhilsaheer.tech](https://fadhilsaheer.tech)
 - 📦 Check my projects at [@OCTOI](https://github.com/octoi)
 - ✉️ Contact me at fadhilsaheer@gmail.com
+- 📖 Currently learning golang
 - 🚀 I'm currently working on [Snorlax](https://github.com/hyfic/snorlax)
 
 <br>
