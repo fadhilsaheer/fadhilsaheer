@@ -57,4 +57,4 @@ My name is **FADHIL**, 16 y/o, fullstack dev, who loves to bring useless ideas t
 - 🚀 [Website](https;//fadhilsaheer.tech)
 
 ### Support
-<a href="https://www.buymeacoffee.com/fadhilsaheer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/fadhilsaheer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
