@@ -51,10 +51,10 @@ My name is **FADHIL**, 17 y/o, fullstack dev, who loves to bring useless ideas t
 <br>
 
 ### Socials
-- 📸 [Instagram](https://instagram.com/fadhilsaheer)
+- ✉️  [hi@fadhilsaheer.tech][mailto:hi@fadhilsaheer.tech]
 - 🐦 [Twitter](https://twitter.com/fadhilsaheer)
 - 👨‍💻 [Dev](https://dev.to/fadhilsaheer)
-- 🚀 [Website](https;//fadhilsaheer.tech)
+- 🚀 [Website](https://fadhilsaheer.tech)
 
 ### Support
 <a href="https://www.buymeacoffee.com/fadhilsaheer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
