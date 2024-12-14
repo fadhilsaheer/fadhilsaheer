@@ -51,7 +51,7 @@ My name is **FADHIL**, 18 y/o, fullstack dev, who loves to bring useless ideas t
 <br>
 
 ### Socials
-- ✉️  [hi@fadhilsaheer.tech](mailto:hi@fadhilsaheer.tech)
+- ✉️  [fadhil@hyfic.org](mailto:fadhil@hyfic.org)
 - 🐦 [Twitter](https://twitter.com/fadhilsaheer)
 - 👨‍💻 [Dev](https://dev.to/fadhilsaheer)
 - 🚀 [Website](https://fadhilsaheer.tech)
