@@ -7,7 +7,7 @@ My name is **FADHIL**, 18 y/o, fullstack dev, who loves to bring useless ideas t
 - 🌏 I'm based on Kerala, India
 - 🖥️ Visit my portfolio at [fadhilsaheer.tech](https://fadhilsaheer.tech)
 - 📦 Check my projects at [@OCTOI](https://github.com/octoi)
-- ✉️ Contact me at hi@fadhilsaheer.tech
+- ✉️ Contact me at fadhil@hyfic.org
 - 📖 Currently learning golang
 
 <br>
