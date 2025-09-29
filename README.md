@@ -2,7 +2,7 @@
 
 # Hello World 👋
 
-My name is **FADHIL**, 18 y/o, fullstack dev, who loves to bring useless ideas to life 😄
+My name is **FADHIL**, fullstack dev, who loves to bring useless ideas to life 😄
 
 - 🌏 I'm based on Kerala, India
 - 🖥️ Visit my portfolio at [fadhilsaheer.tech](https://fadhilsaheer.tech)
